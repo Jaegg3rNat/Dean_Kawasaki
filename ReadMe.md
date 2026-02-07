@@ -12,7 +12,7 @@ Under review in *Physical Review E*.
 
 #####################################################
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16080825.svg)](https://doi.org/10.5281/zenodo.16080825)
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 #####################################################
