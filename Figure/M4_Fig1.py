@@ -149,7 +149,8 @@ def compute_S(snaps, N, D, bins,base_folder):
 # secondary_colors = ['#8C510A', '#E69F00', '#F6C141']
 
 secondary_colors = ['#004949', '#009292', '#FFB20F']
-primary_colors = ['#000000', '#4ECDC4', '#FF6B6B']
+# primary_colors = ['#000000', '#4ECDC4', '#FF6B6B']
+primary_colors = ['#000000', 'lime', 'red']
 
 # ==================================================================================
 # Begin Figure

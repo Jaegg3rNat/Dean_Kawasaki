@@ -6,7 +6,7 @@ using a pseudospectral approach and the Runge-Kutta 4th order (RK4) method and M
 for interacting particle systems.
 The code is part of the research for the paper
 **_Impact of fluctuations on particle systems described by Dean-Kawasaki-type equations._**
-Under review in *Physical Review E*.
+Published in *Physical Review E*.
 
 
 
@@ -22,7 +22,13 @@ Under review in *Physical Review E*.
 [![Fortran](https://img.shields.io/badge/Fortran-Programming-734F96?logo=fortran&logoColor=white)](https://fortran-lang.org/)
 
 #####################################################
+<!---
+[ ![PRE Submitted](https://img.shields.io/badge/PRE-Submitted-8C5A2B?style=for-the-badge)
+[ ![PRE Under Review](https://img.shields.io/badge/PRE-Under%20Review-8B0000?style=for-the-badge)]]
+[![PRE Accepted](https://img.shields.io/badge/PRE-Accepted-8B1A1A?style=for-the-badge)]
+-->
 
+[![PRE Published](https://img.shields.io/badge/PRE-Published-1591EA?style=for-the-badge)](https://doi.org/10.1103/nt3t-jhxr) 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.25454-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.25454)
 
 #####################################################

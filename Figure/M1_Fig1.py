@@ -2,10 +2,13 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import rc
 
+from Figure.M3_Fig1 import primary_colors
+
 # Choose the font for the figure
 rc('font', **{'family': 'serif', 'serif': ['Computer Modern']})
 rc('text', usetex=True)
-primary_colors = ['#000000', '#4ECDC4', '#FF6B6B']
+# primary_colors = ['#000000', '#4ECDC4', '#FF6B6B']
+primary_colors = ['#000000', 'lime', 'red']  #
 # set figure format
 # fig, (ax1, ax2) = plt.subplots(nrows=1, ncols=2, dpi=900, figsize=(12, 6), sharey=True)  # Height doubled for two rows
 #
