@@ -43,7 +43,12 @@ Published in *Physical Review E*.
 
 
 ## Acknowledgments
-
+N.S. and E.H-G. acknowledge funding by the Spanish
+Ministerio de Ciencia, Innovación y Universidades (MICIU/AEI/10.13039/501100011033) through the Maria
+de Maeztu project CEX2021-001164-M. C.L. and E.H-G.
+acknowledge grant LAMARCA PID2021-123352OBC32
+funded by MCIN/AEI/10.13039/501100011033 and
+FEDER, UE.
 
 ## License
 
