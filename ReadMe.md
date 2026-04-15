@@ -56,11 +56,3 @@ This project is licensed under the MIT License.
 
 Copyright (c) 2026 Nathan de Oliveira Silvano
 
-## Citation
- If you use this code, please cite the original paper as:
- 
-```
-
-```
-
-## Usage
